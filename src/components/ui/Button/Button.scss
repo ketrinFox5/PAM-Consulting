@@ -1,0 +1,35 @@
+@import '../../../styles//main.scss';
+
+.Button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: $purple-1;
+    border: 1px solid $yellow-1;
+    background: linear-gradient(96.1deg, $yellow-1 -22.07%, $yellow-2 123.25%);
+    box-shadow: 0px 3.52663px 35.2663px rgba(255, 185, 175, 0.3);
+    border-radius: 88.1657px;
+
+    &-small {
+        padding: 18px 34px;
+        width: 70px;
+        height: 24px;
+    }
+
+    &-middle {
+        padding: 15px;
+        width: 150px;
+        height: 18px;
+    }
+
+    &-big {
+        padding: 16px 22px;
+        width: 200px;
+        height: 48px;
+    }
+
+    &-checked {
+        color: $yellow-1;
+        background: linear-gradient(90deg, $purple-1 0%, #AB80EF 104.7%);
+    }
+}

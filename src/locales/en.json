@@ -1,0 +1,80 @@
+{
+    "HEADER": {
+        "HOME": "Home",
+        "ABOUT_US": "About us",
+        "SERVICES": "Services",
+        "INVESTMENTS_OPPORTUNITIES": "Investments opportunities",
+        "BUSINESS_RELOCATION": "Business relocation",
+        "FAMILY_RELOCATION": "Family relocation",
+        "INVEST_IN_CYPRUS": "Invest in cyprus",
+        "MIGRATION": "Migration",
+        "CONTACT_US": "Contact us"
+    },
+
+    "FOOTER": {
+        "PRIVACY": "Privacy poilcy",
+        "DISCLAIMER": "Disclaimer",
+        "RIGHTS_RESERVED": "© 2022 PAM Consulting. All rights reserved",
+        "DESIGN": "Who designed this website?"
+    },
+
+    "BUTTONS": {
+        "GET_IN_TOUCH": "Get in touch",
+        "FIND_OUT_MORE": "Find Out More",
+        "CHECK_MORE": "Check more",
+        "SUBMIT": "Submit",
+        "MORE_ABOUT_US": "More about us"
+    },
+
+    "THANK_YOU": {
+        "TITLE": "Thank You! Your request is being reviewed",
+        "TEXT": "One of our team members will get in touch with you soon"
+    },
+
+    "HOME_PAGE": {
+        "FIRST_OFFER": {
+            "INVESTMENTS": "Investments",
+            "RELOCATING_TO_CYPRUS": "Relocating to Cyprus",
+            "SEAMLESS_EXCEPTIONAL_EXPERIENCE": "Seamless – Exceptional – Experience",
+            "OFFER_TEXT": "The captivating Mediterranean island of Cyprus has become a business haven with a flourishing expat community. The strategic location that grants networking opportunities and the stability of being in the EU offers entrepreneurs the abilities they need to thrive.",
+            "MOST_POPULAR_CITIES": "Most popular cities",
+            "NICOSIA": "Nicosia",
+            "LIMASSOL": "Limassol",
+            "PAPHOS": "Paphos",
+            "LARNAKA": "Larnaka"
+        },
+        "SECOND_OFFER": {
+            "INVEST_IN_PROPERTY_IN_CYPRUS": "Invest in property in Cyprus",
+            "OFFER_TEXT": "Real estate has become a flourishing type of investment on the island, with an increasing number of people seeking to invest in residential and commercial property projects in Cyprus. With a confident and stable economic outlook, it is a great time to consider investing in Cyprus property."
+        },
+        "THIRD_OFFER": {
+            "OFFER_TEXT": "Globally known as one of the safest places to live in the world, Cyprus is the ideal location for families. The healthy lifestyle and family-friendly communities have much to offer to every member of your family."
+        },
+        "FOURTH_OFFER": {
+            "OFFER_TEXT": "Cyprus has a lot to offer for business entrepreneurs who aim to reach for more and expand their business goals. The attractive tax benefits and office locations have transformed Cyprus into a country with endless business opportunities for everyone."
+        },
+        "FIFTH_OFFER": {
+            "INVESTING_IN_YACHTS": "Investing in Yachts",
+            "OFFER_TEXT" : "Living on an island is an adventure that opens up a wide range of experiences and possibilities. Here, you can conquer the Mediterranean Sea by renting or owning a yacht as part of your investment plan."
+        },
+        "SIXTH_OFFER": {
+            "MOVING_TO_CYPRUS": "Moving to Cyprus",
+            "OFFER_TEXT": "Thousands of individuals and families from every part of the globe have immigrated to Cyprus after discovering their perfect place to call home. The island is now one of the most dominant destinations with huge expat communities."
+        }
+    },
+    "SERVICES": {
+        "TITLE": "Our Services",
+        "CARDS": {
+            "FAMILY_RELOCATION": {
+                "TEXT": "With strategic planning, we simplify the moving process so you and your family can feel safe and confident."
+            },
+            "BUSINESS_RELOCATION": {
+                "TEXT": "We handle the responsibility of moving your business to Cyprus, so you can focus on your business goals."
+            },
+            "INVESMENT_PLANS" : {
+                "TITLE": "Investment plans",
+                "TEXT": "Discover the opportunity to further enhance your business ambitions, by choosing the optimal investment plan."
+            }
+        }
+    }
+}

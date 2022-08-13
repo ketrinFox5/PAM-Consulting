@@ -1,0 +1,88 @@
+@import './variables.scss';
+
+@font-face {
+    font-family: "Montserrat";
+    src: url("../assets/fonts/Montserrat-SemiBold.ttf") format("ttf");
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Avenir Next";
+    src: url("../assets/fonts/AvenirNextCyr-Light.ttf") format("ttf"),
+        url("../assets/fonts/AvenirNextCyr-Light.eot") format("eot"),
+        url("../assets/fonts/AvenirNextCyr-Light.woff") format("woff"),
+        url("../assets/fonts/AvenirNextCyr-Light.woff2") format("woff2");
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Avenir Next";
+    src: url("../assets/fonts/AvenirNextCyr-Regular.ttf") format("ttf"),
+        url("../assets/fonts/AvenirNextCyr-Regular.eot") format("eot"),
+        url("../assets/fonts/AvenirNextCyr-Regular.woff") format("woff"),
+        url("../assets/fonts/AvenirNextCyr-Regular.woff2") format("woff2");
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Avenir Next";
+    src: url("../assets/fonts/AvenirNextCyr-Medium.ttf") format("ttf"),
+        url("../assets/fonts/AvenirNextCyr-Medium.eot") format("eot"),
+        url("../assets/fonts/AvenirNextCyr-Medium.woff") format("woff"),
+        url("../assets/fonts/AvenirNextCyr-Medium.woff2") format("woff2");
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+}
+
+.title {
+    font-family: 'Avenir Next';
+    font-weight: $fw-600;
+    color: $grey;
+
+    &.h1 {
+        font-family: 'Montserrat';
+        font-size: $fz-36;
+        line-height: $lh-40;
+    }
+
+    &.h2 {
+        font-size: $fz-36;
+        line-height: $lh-40;
+        text-transform: uppercase;
+    }
+
+    &.h3 {
+        font-size: $fz-28;
+        line-height: $lh-32;
+        text-transform: uppercase;
+    }
+
+    &.h4 {
+        font-family: 'Montserrat';
+        font-size: $fz-20;
+        line-height: $lh-32;
+    }
+
+
+    &.h5 {
+        font-weight: $fw-400;
+        font-size: $fz-16;
+        line-height: $lh-24;
+        letter-spacing: 0.5px;
+    }
+
+    &.h6 {
+        font-weight: $fw-500;
+        font-size: $fz-16;
+        line-height: $lh-22;
+        letter-spacing: 0.005em;
+        text-transform: uppercase;
+    }
+}
