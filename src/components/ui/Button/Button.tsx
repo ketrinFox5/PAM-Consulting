@@ -13,7 +13,7 @@ const Button = ({text, size, textSize}: IButton) => {
     };
 
     return (
-        <button className={"Button title " + textSize + " " + buttonSizeClass} >
+        <button className={"title Button " + textSize + " " + buttonSizeClass} >
             {text}
         </button>
     )

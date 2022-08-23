@@ -13,7 +13,7 @@
 
     "FOOTER": {
         "PRIVACY": "Privacy poilcy",
-        "DISCLAIMER": "Disclaimer",
+        "DISCLAIMER": " Disclaimer",
         "RIGHTS_RESERVED": "© 2022 PAM Consulting. All rights reserved",
         "DESIGN": "Who designed this website?"
     },
@@ -23,7 +23,8 @@
         "FIND_OUT_MORE": "Find Out More",
         "CHECK_MORE": "Check more",
         "SUBMIT": "Submit",
-        "MORE_ABOUT_US": "More about us"
+        "MORE_ABOUT_US": "More about us",
+        "CONTACT": "Contact"
     },
 
     "THANK_YOU": {
@@ -31,17 +32,45 @@
         "TEXT": "One of our team members will get in touch with you soon"
     },
 
+    "FAQ": "Frequently Asked Questions",
+    "HOW_WE_CAN_HELP": "How We Can Help",
+
     "HOME_PAGE": {
+        "TITLES_CYTIES": {
+            "NICOSIA": "Nicosia",
+            "LIMASSOL": "Limassol",
+            "PAPHOS": "Paphos",
+            "LARNAKA": "Larnaka"
+        },
+
+        "FAQ": {
+            "CARDS": {
+                "FIRST_QUESTION": {
+                    "TITLE": "Question: How is the business environment in Cyprus?",
+                    "TEXT": "Answer: Cyprus is considered to be one of the most business-oriented countries of the EU, offering business entrepreneurs a variety of opportunities to expand their corporate dreams and ambitions.",
+                    "LABEL": "Business"
+                },
+                "SECOND_QUESTION": {
+                    "TITLE": "Question: What is the cost of living in Cyprus?",
+                    "TEXT": "Answer: In comparison to other countries of the EU, the cost of living is relatively low. Of course, the cost of living varies from city to city. For example, this means that living in Paphos might be a bit cheaper than living in Limassol.",
+                    "LABEL": "Prices"
+                },
+                "THIRD_QUESTION": {
+                    "TITLE": "Question: What are the best cities in Cyprus for expats?",
+                    "TEXT": "Answer: As Cyprus is among the most attractive destinations for people from different parts of the globe, large and thriving expat communities can be found in Paphos, Limassol, Larnaca, Nicosia.",
+                    "LABEL": "Migration"
+                }
+            }
+        },
+
+        "OUR_PARTNERS": "Our Partners",
+
         "FIRST_OFFER": {
             "INVESTMENTS": "Investments",
             "RELOCATING_TO_CYPRUS": "Relocating to Cyprus",
             "SEAMLESS_EXCEPTIONAL_EXPERIENCE": "Seamless – Exceptional – Experience",
             "OFFER_TEXT": "The captivating Mediterranean island of Cyprus has become a business haven with a flourishing expat community. The strategic location that grants networking opportunities and the stability of being in the EU offers entrepreneurs the abilities they need to thrive.",
-            "MOST_POPULAR_CITIES": "Most popular cities",
-            "NICOSIA": "Nicosia",
-            "LIMASSOL": "Limassol",
-            "PAPHOS": "Paphos",
-            "LARNAKA": "Larnaka"
+            "MOST_POPULAR_CITIES": "Most popular cities"
         },
         "SECOND_OFFER": {
             "INVEST_IN_PROPERTY_IN_CYPRUS": "Invest in property in Cyprus",
@@ -60,21 +89,413 @@
         "SIXTH_OFFER": {
             "MOVING_TO_CYPRUS": "Moving to Cyprus",
             "OFFER_TEXT": "Thousands of individuals and families from every part of the globe have immigrated to Cyprus after discovering their perfect place to call home. The island is now one of the most dominant destinations with huge expat communities."
-        }
-    },
-    "SERVICES": {
-        "TITLE": "Our Services",
-        "CARDS": {
-            "FAMILY_RELOCATION": {
-                "TEXT": "With strategic planning, we simplify the moving process so you and your family can feel safe and confident."
-            },
-            "BUSINESS_RELOCATION": {
-                "TEXT": "We handle the responsibility of moving your business to Cyprus, so you can focus on your business goals."
-            },
-            "INVESMENT_PLANS" : {
-                "TITLE": "Investment plans",
-                "TEXT": "Discover the opportunity to further enhance your business ambitions, by choosing the optimal investment plan."
+        },
+
+        "WHY_CHOOSE_CYPRUS": {
+            "TITLE": "Why Choose Cyprus?",
+            "TEXT": "When you’re searching for the ideal home you want everything to be perfect. This is why over the years more and more people from all around the world are choosing Cyprus as their ultimate destination. This smal Mediterranean mesmerizes millions of visitors every year.",
+            "CARDS": {
+                "PROGRESSIVE_TAX_SYSTEM": {
+                    "TITLE": "Progressive tax system",
+                    "TEXT": "Offering one of the most attractive tax regimes in Europe"
+                },
+                "STUNNING_WEATHER": {
+                   "TITLE":"Stunning weather and climate",
+                   "TEXT": "Enjoy a high quality of life with over 324 days of sun annually" 
+                },
+                "BLOOMING_EXPAT_COMMUNITY": {
+                    "TITLE": "Blooming expat community",
+                    "TEXT": "Become part of an increasingly diverse community"
+                },
+                "FAMILY_ORIENTED_VALUES": {
+                    "TITLE": "Family-oriented values",
+                    "TEXT": "Excellent education standards and extremely low crime rates"
+                }
+            }
+        },
+        "SERVICES": {
+            "TITLE": "Our Services",
+            "CARDS": {
+                "FAMILY_RELOCATION": {
+                    "TEXT": "With strategic planning, we simplify the moving process so you and your family can feel safe and confident."
+                },
+                "BUSINESS_RELOCATION": {
+                    "TEXT": "We handle the responsibility of moving your business to Cyprus, so you can focus on your business goals."
+                },
+                "INVESMENT_PLANS" : {
+                    "TITLE": "Investment plans",
+                    "TEXT": "Discover the opportunity to further enhance your business ambitions, by choosing the optimal investment plan."
+                }
+            }
+        },
+        "MOVING_TO_PARADISE": {
+            "TITLE": "Moving to Paradise",
+            "FIRST_TEXT": "Have you ever dreamed about the perfect place to live? Your definition of perfect may be different someone else’s. Are you longing to live by the beach and listen to the soothing waves or are you a kind of person who enjoys the bustling sounds of the city? Whatever lifestyle you desire, Cyprus has it all! Whether you’re travelling with your family, your partner, or as a solo business entrepreneur, this exotic island can offer you a little bit of everything.",
+            "SECOND_TEXT": "If you’ve made the decision to relocate to Cyprus, then you are expecting to find a safe place to settle. With extremely low crime rate, stunning sandy beaches, and awe-inspiring mountain views, Cyprus is the place to be!"
+        },
+        "MAP": {
+            "TITLE": "FIND THE IDEAL LOCATION TO CALL HOME",
+            "TOOLTIP": "Click your mouse over any city to learn more about it",
+            "CARDS": {
+                "LARNAKA": {
+                    "FIRST_TEXT": "Being the third largest city in Cyprus and home to the island’s most busy airport, it offers visitors a variety of activities and experiences that will remain unforgettable to any individual.",
+                    "SECOND_TEXT": "It is known for its Salt Lake that hosts thousands of Flamingos each year as well as for its sandy beaches and historical sites.",
+                    "THIRD_TEXT": " The rapidly increasing corporate ecosystem and comfortable lifestyle create an exceptional living environment for anyone who is looking to enjoy a relaxed life by the sea."
+                },
+                "LIMASSOL": {
+                    "FIRST_TEXT": "The sunny city of Limassol is the second largest city of the island, and it is among the most desirable travel and business destinations both for families and for entrepreneurs looking to expand their business horizons. The combination of elegant accommodation and ancient architectural views is bound to capture the interest of people of any age.",
+                    "SECOND_TEXT": " The Limassol Marina is the first marina to harbor yachts in Cyprus and it is surrounded by renowned bars and restaurants. The residents of Limassol pride themselves on their cultural values and festivities as hundreds of theatrical performances take place each year at the Rialto theater, and the city holds an annual Wine Festival and Carnival Parade."
+                },
+                "NICOSIA": {
+                    "FIRST_TEXT": "Also known as Lefkosia, Nicosia is the capital city of Cyprus and the only divided capital city in the world. The unique urban scenery is built upon a rich historical past and its mixture with modern lifestyle.",
+                    "SECOND_TEXT": "It is in close proximity to every other city in Cyprus, giving residents the flexibility of choosing to enjoy the breathtaking views from the mountain tops and soothing beaches of the coastal cities within minutes.",
+                    "THIRD_TEXT": "Nicosia has become an attractive cosmopolitan city made of diverse cultural communities, excellent healthcare facilities and every aspect one requires to build the lifestyle of your dreams."
+                },
+                "PAPHOS": {
+                    "FIRST_TEXT": "Paphos is located on the southwest coast of Cyprus, and it is one of the most popular cities for expat communities. The crystal-clear, family-friendly beaches are a frequent holiday retreat for millions of tourists all year round. Its exceptional infrastructure includes a huge shopping mall, hospitals, the second largest airport of the island, and many schools.",
+                    "SECOND_TEXT": "These are only a few reasons why people choose to move to Paphos, as there are many more reasons it is considered one of the most excellent places to live in Europe."
+                }
+            }
+        },
+        "WHO_WE_ARE": {
+            "TITLE": "Who We Are",
+            "FIRST_TEXT": "PAM Consulting is built upon a team of motivated professionals aiming to provide families and businesses the services they need to relocate to the island of Cyprus.",
+            "SECOND_TEXT": "We understand the challenges of deciding to relocate and this is why we prioritize our clients’ needs by making sure that the whole relocation process is as smooth and simple as possible.",
+            "CONTACT": {
+                "POSITION": "FOUNDER",
+                "NAME": "Anastasia Papaharidemou"
+            }
+        },
+        "HOW_WE_MAKE_IT_HAPPEN": {
+            "TITLE": "How we make it happen",
+            "CARDS": {
+                "WE_LISTEN": {
+                    "TITLE": "We listen",
+                    "TEXT": "Our most prominent purpose is to understand and identify with your needs so we can effectively find ways to provide solutions."
+                },
+                "WE_STRATEGIZE": {
+                    "TITLE":"We strategize",
+                    "TEXT": "According to your requirements, our team designs a thorough series of steps that will make the relocation process as smooth as possible."
+                },
+                "WE_PROVIDE": {
+                    "TITLE": "We provide",
+                    "TEXT": "We implement our services that are based on efficient strategic planning that respond to your family’s and business’s goals and ambitions."
+                },
+                "WE_MANAGE": {
+                    "TITLE": "We manage",
+                    "TEXT": "Once you are settled, we make sure that everything is according to your expectations and your vision of the quality of our services."
+                }
             }
         }
+    },
+    "CONTACT_US": {
+        "TITLE": "Contact us",
+        "SEND_INQUIRY": "Send inquiry",
+        "LABELS": {
+            "NAME": "Your Name",
+            "EMAIL": "Email",
+            "SUBJECT": "Subject",
+            "PHONE": "Phone",
+            "MESSAGE": "Your message"
+        },
+        "SUBMIT_BUTTON": "By clicking “Submit button” you accept our Terms & Conditions and have read our Privacy Policy and Disclaimer"
+    },
+
+    "ABOUT_PAGE": {
+        "TITLE": "Who we are",
+        "FIRST_TEXT": "PAM Consulting is a team of dedicated professionals, located in Cyprus. Our services rely upon the idea that the sunny island of Cyprus can be the solution families and businesses are searching for.",
+        "SECOND_TEXT": "We understand the challenges that come with moving from one location to another and the difficulties that may arise. For this reason, we aim to transform family and business relocation into a hassle-free experience for you and yours.",
+        "WHAT_WE_DO": "What we do",
+        "WHAT_WE_DO_TEXT_ONE": "We provide solutions based on strategic planning that responds to your needs.  Our business relocation services prioritize your business goals and ambitions. Changing your businesses’ location is a big step towards progress and it is essential that everything goes as smooth as possible. While you focus on boosting your company’s strategies, we take care of everything else.",
+        "WHAT_WE_DO_TEXT_TWO": "The decision to move from one place to another with your family is life-changing. As you expect this change to be for the better, our family relocation services make sure to consider every aspect of your family’s requirements.  As you settle in Cyprus, we also offer you the opportunity to discover different investment plans that can further enable you to expand your financial and business horizons.",
+        "WHY_WE_DO_IT": {
+            "TITLE": "Why We Do It – Our Values",
+            "CARDS": {
+                "TIME_EFFICIENCE": {
+                    "TITLE": "Time Efficiency",
+                    "TEXT": "As our team works efficiently and strategically, the whole relocation process is completed in a short amount of time so you can have more time to focus on setting up your life in Cyprus."
+                },
+                "GRATIFYING_EXPERIENCE": {
+                    "TITLE": "Gratifying Experience",
+                    "TEXT": "Moving can be intimidating and demanding experience for anyone. Our team makes sure to come up with the best relocation strategy, offering you a piece of mind and a sense of security."
+                },
+                "SAFETY_AND_RELIABILITY": {
+                    "TITLE": "Safety & Reliability",
+                    "TEXT": "Once you are settled, we make sure that everything is according to your expectations and your vision of the quality of our services."
+                },
+                "PERSONALIZED_SUPPORT": {
+                    "TITLE": "Personalized Support",
+                    "TEXT": "Our services include providing you with any information you may need about living in Cyprus with your family."
+                }
+            }
+        }
+    },
+
+    "MIGRATION_PAGE": {
+        "TITLE": "Moving to Cyprus",
+        "PERMANENT_RESIDENCY": {
+            "TITLE": "Permanent Residency in Cyprus Benefits",
+            "FIRST_TEXT": "The decision to relocate your business or move with your family to Cyprus comes with the decision to enhance your quality of life. As Cyprus is among the most beloved travel destinations for millions of tourists every year, an increasing number of individuals and families have decided to turn the Mediterranean island into their permanent home. With over 17% of its population being international migrants, Cyprus has numerous expat communities all around the island.",
+            "SECOND_TEXT": "Becoming a permanent resident in Cyprus offers you the opportunity to enjoy a multitude of benefits, helping your business thrive and making your family feel welcome and safe.",
+            "THIRD_TEXT": "It’s important to know that Cyprus Permanent Residency can be obtained by purchasing property or living in Cyprus for a continuous period of five years or more. Some of the most important benefits of becoming a permanent resident in Cyprus are the following:",
+            "FOURTH_TEXT": "Obtaining EU residency in a safe and secure jurisdiction Easy access to Europe due to great geographical location Exceptional education standards for your children Outstanding medical facilities and high quality healthcare No inheritance tax Opportunity to have obtain an EU passport Enjoying a high quality of life",
+            "FIFTH_TEXT": "Once you experience life on the island, you will have gained a new perspective on life. The blue-flagged clear beaches and the sunny weather all year long, will become your own personal oasis where you can boost your business opportunities and enjoy a relaxed lifestyle with your family."
+        },
+        "WHY_TO_INVEST": {
+            "TITLE": "Why to Invest in Cyprus",
+            "FIRST_TEXT": "PAM Consulting services include assistance and consulting when it comes to your investing plans in Cyprus. We will prioritize your needs and expectations by offering you a variety of investment options for you to choose from. In an accelerating pace, Cyprus has grown into one of the dominant investment-friendly countries in the EU. It is evident that due to the government’s efforts to welcome more immigrants to Cyprus, the investment opportunities are vast and customizable for individuals.",
+            "SECOND_TEXT": "The main reasons why more and more people are investing in Cyprus are:",
+            "THIRD_TEXT": "Cyprus has the lowest corporate tax rate in Europe at 12.5% No capital gains tax or inheritance tax Tax exemptions on worldwide dividends as well as interest income No Immovable Property Tax Corporate tax relief up to 75% for holdings Competitive VAT rates ranging from 0- 19% Low national healthcare tax contribution of 2.65-4.7%",
+            "FOURTH_TEXT": "Whether you’re aiming to increase your financial possibilities or increase your business outlook, Cyprus is an ideal place to start. With the ability to choose from endless investment plans, you can be one step closer to manifesting your goals."
+        },
+        "IMPORTANT_INFO": {
+            "TITLE": "Important Information to Know Before Immigrating to Cyprus",
+            "FIRST_TEXT": "As you are planning to achieve a fresh start in Cyprus, we would like to provide you with some basic information about the island and what to expect when you arrive.",
+            "SECOND_TEXT": "Capital City: Nicosia is the largest city of the island which has over 200000 residents, meaning about 16.6% of the country’s population. Currency: The currency of Cyprus is the Euro. Population: Cyprus’s current population is 1.207 million. Official Languages: The official languages of the island are Greek and Turkish, and English is widely spoken by locals. Cost of Living: Compared to other European countries, the cost of living is relatively low in Cyprus. Job Market: As a member of the EU since 2004, the business-friendly environment provides access to a wide range of markets, with some of the most prominent being in the financial sector, IT and technology services, and tourism. Education: Public and Private Education in Cyprus meets outstanding quality standards.",
+            "THIRD_TEXT": "Getting to know the ins and outs of the island is easy and exciting. Our team at PAM Consulting is also here to assist you with any additional information you may require."
+        },
+        "HOW_WE_CAN": {
+            "FIRST_TEXT": "Leaving your home country to settle in another is always accompanied by complex immigration processes such as registration, finding housing, signing documents, opening a bank account, finding schooling for your children, and much more. This process can make anyone feel stressed and uncertain about the next move. For this reason, our all-encompassing services make sure to make the relocation process as smooth as possible by handling everything that has to do with relocating your family and your business to Cyprus.",
+            "SECOND_TEXT": "Business Relocation Family Relocation Investment Plans",
+            "THIRD_TEXT": "We want you to feel confident in your decision to relocate to Cyprus, as we take care of the challenging parts of moving. Moving to Cyprus is in itself an investment in your future."
+        },
+        "FAQ": {
+            "CARDS": {
+                "FIRST_QUESTION": {
+                    "TITLE": "Question: What is the Tax system like in Cyprus?",
+                    "TEXT": "Answer: With one of the lowest corporate tax rates (12.5%) in the European Union, the tax system is attractive to foreign investors. Neither succession taxes nor gains from the disposal of securities are subject to tax.",
+                    "LABEL": "Taxes"
+                },
+                "SECOND_QUESTION": {
+                    "TITLE": "How long does it take to buy a property in Cyprus?",
+                    "TEXT": "Answer: The whole procedure for pur-chasing property in Cyprus should only take about 1-3 months. Of course, each situation is different and this timeframe may vary from one individual to another. Our relocation services aim to simplify this process by providing guidance and assistance from start to finish.",
+                    "LABEL": "Investment"
+                },
+                "THIRD_QUESTION": {
+                    "TITLE": "Question: How long does it take to become a permanent resident in Cyprus?",
+                    "TEXT": "Answer: While a residency card can be obtained within two months through the fast-track process, a permanent resident of Cyprus can apply for Cyprus Citizenship after completing 5 years (1825 days) of legal stay in Cyprus, according to the naturalization scheme based on years of residence (M127). Once acquired, permanent residency in Cyprus is valid for life.",
+                    "LABEL":"Migration"
+                }
+            }
+        }
+    },
+
+    "FAMILY_RELOCATION_PAGE": {
+        "TITLE": "Family Relocation to Cyprus",
+        "LIVING_LIFE": {
+            "TITLE": "Living the Island Life",
+            "FIRST_TEXT": "When you make the decision to move to a different country with your family, you’re looking for the perfect place to call home. Every person and every family has their own perception of what an ideal place to live looks like. While some people prefer to live by the beach, others prefer the mountains. You may long to live in a quiet little village, while others enjoy the bustling life of the city. So, why do thousands of families choose Cyprus as their ultimate destination? Because this island has it all! Everything is in close proximity, enabling you to discover every hidden aspect of the island.",
+            "SECOND_TEXT": "The Cypriot lifestyle embraces people of all ages and backgrounds.",
+            "THIRD_TEXT": "Laid-back lifestyle: The Mediterranean way of life comes to contradict the tiresome and stressful life in larger cities and countries. Low pollution levels: Striving to become even more environmentally-friendly, Cyprus’s air quality is high. Stunning beaches: One of the most obvious reasons people move to Cyprus is the ability to live by some of the most magical and turquoise beaches of the world. The fantastic Cypriot weather: Cyprus's climate is considered one of the healthiest in the world, with over 300 days of sunshine annually. Average winter temperatures are 13-15°C, and summer temperatures are 30-33°C.",
+            "FOURTH_TEXT": "It doesn’t take long to be captivated by the mesmerizing Cypriot lifestyle. All of these advantages makes the decision to relocate much easier."
+        },
+        "CHILD_FRIENDLY": {
+            "TITLE": "Child-Friendly Community",
+            "FIRST_TEXT": "Your most prominent priority when relocating your family is that your children’s quality of life will only get better once you move and settle down. The process of moving is challenging for anyone, and this is especially true when it comes to children who need to adapt to a new way of life. The family-oriented environment of Cyprus makes this process much more enjoyable. With a huge variety of activities and experiences, children of all ages can discover new hobbies and skills. The diverse cultural community is also a chance for children to understand the world and cultivate their minds to become accepting towards people from all around the world.",
+            "SECOND_TEXT": "Extremely low crime rates: Safety and security are among the most important reasons why Cyprus is great for families. Education system: Your children have the opportunity to experience one of Europe’s highest education standards in every level of education. Quality public and private healthcare: with an excellent multi-layered healthcare system, you can have easy access to hospitals and clinics of the country. Abundance of entertainment activities: From watersports to playgrounds, farms, and historical attractions, your children will never get bored of the island life.",
+            "THIRD_TEXT": "The friendly and welcoming manner of the locals also adds to the peaceful atmosphere of the island, making you and your family feel instantly at home."
+        },
+        "EXPAT_IN_CYPRUS": {
+            "TITLE": "What it’s like to be an Expat in Cyprus",
+            "FIRST_TEXT": "Cyprus is among Europe’s most popular destinations for tourists from all around the globe. On this little Mediterranean island you will meet people with different cultural backgrounds, speaking a variety of languages. The thousands of people who have moved permanently to Cyprus have been living on the island for many years, creating expat communities in every city. This enhances the sense of feeling at home away from home.",
+            "SECOND_TEXT": "Large expat community: Cyprus is becoming more and more attractive to immigrants from all around the world and is one of Europe’s largest expat destinations. English is widely spoken: Greek and Turkish are the official languages of the island, but English is widely spoken by almost everyone. The low cost of living: While prices vary from city to city, the cost of living is relatively low and affordable compared to other cities in Europe. Many employment and work opportunities: Business and economy thrives on the multicultural environment of the country, enabling you and your family to easily find the job opportunity you are looking for.",
+            "THIRD_TEXT": "Whichever city you may choose to relocate to, you and your family will be able to shape the life you dream about."
+        },
+        "HOW_WE_CAN_HELP": {
+            "CARDS": {
+                "PRE_ARRIVAL_PLANNING": {
+                    "TITLE": "Pre-arrival Planning",
+                    "TEXT": "We provide a step-by-step plan that will handle every aspect of your family’s relocation process."
+                },
+                "LOCATION_OPTIONS": {
+                    "TITLE": "Housing and Location Options",
+                    "TEXT": "Together, we will discuss and review housing options according to your needs and expectations."
+                },
+                "IMMIGRATION_ASSISTANCE": {
+                    "TITLE": "Immigration Assistance",
+                    "TEXT": "Our consultation services will simplify immigration matters, helping you arrange the documents you need."
+                },
+                "EDUCATION_OPTIONS": {
+                    "TITLE": "Education Options",
+                    "TEXT": "We will provide you with every schooling option available for your children and assist you in making your decision."
+                },
+                "SUPPORT": {
+                    "TITLE": "Personalized Support",
+                    "TEXT": "Our services include providing you with any information you may need about living in Cyprus with your family."
+                }
+            }
+        }
+    },
+
+    "BUSINESS_MIGRATION_PAGE": {
+        "TITLE": "Business Relocation",
+
+        "BUSINESS_FRIENDLY": {
+            "TITLE": "Business-Friendly Environment",
+            "FIRST_TEXT": " Apart from being one of the most attractive holiday destinations globally, Cyprus is also recognized as an ever-growing hub for business in the EU. Every year, entrepreneurs from all around the world are moving to Cyprus with the aim to maximize their business efforts and opportunities. Every big city on the island – Nicosia, Limassol, Paphos, and Larnaca – has something to offer to every ambition-driven individual. This business-friendly environment is the result of effective business initiatives taken by the government which focus on providing a variety of benefits to people moving from abroad. Among the multitude of reasons why Cyprus is the ideal place to relocate your business are the following:",
+            "SECOND_TEXT": "Great Market access: The Geostrategic position of the island enables businesses to access major markets of the EU 12.5% corporate tax rate: One of the lowest Corporate tax rates in the EU Simple Immigration & Employment process Investment Opportunities: some of the most powerful businesses include real estate, shipping companies, financial, and insurance industries Cypriot Citizenship on naturalization grounds can be applied for following 7 years of employment and residence Straightforward Corporate Structures: simple compliance and legal processes ",
+            "THIRD_TEXT": "These benefits create an attractive and inviting business environment for those seeking to expand their businesses in one of the most dominant corporate locations of the world."
+        },
+
+        "QUALITY_OF_LIFE": {
+            "TITLE": "Quality of Life in Cyprus",
+            "FIRST_TEXT": "A minimum of around 4 million tourists choose Cyprus as their holiday destination per year. This makes the island one of the most popular destinations in the world. In fact, many people who experience life in Cyprus tend to return either for another holiday or decide to move permanently. As a business entrepreneur looking to relocate, the most essential point to carefully consider is the new location of your business activities. This is why apart from the outstanding business advantages of Cyprus, you can also find the ideal location for you and your employees to work and live.",
+            "SECOND_TEXT": "The cost of living is lower than in most other EU countries High quality of living for expatriates: there are thousands of expat communities around the island Low crime rate: one of the safest countries to live globally Exceptional healthcare facilities Among the world's top retirement destinations One of the best state pension systems worldwide A strong education sector with a wide range of public and private higher education institutions.",
+            "THIRD_TEXT": "Choosing Cyprus is more than just relocating your business – it’s about starting a new life built on quality and security."
+        },
+
+        "POSITIVE_ECONOMIC": {
+            "TITLE": "Positive Economic Outlook",
+            "FIRST_TEXT": "The decision to relocate your business comes with the need to discover a location with a strong and promising economic future for your business. Cyprus has established its resilient economic reputation with one of the fastest growth rates in the EU. This is achieved by focusing on the diversification of services and business opportunities found on the island. Some of the most dominant services include communications, real estate, and financial industries. The government’s efforts to support businesses has proved fundamental in the growth of the economy.",
+            "SECOND_TEXT": "Robust GDP growth Among the fastest-growing economies in the EU Positive macroeconomic forecasts Key focus on investing in interconnectivity in the following years Exceptional Regulatory Structure: closely aligned to the English common law legal system",
+            "THIRD_TEXT": "Since the 1st of January 2022, the Government of Cyprus has launched a new action plan to attract foreign businesses to Cyprus for the purpose of creating or expanding their operations. This creates unlimited possibilities when it comes to growing your business in Cyprus."
+        },
+
+        "HOW_WE_CAN_HELP": {
+            "CARDS": {
+                "LOCATION_SELECTION": {
+                    "TITLE": "Location Selection",
+                    "TEXT": "We assist in the process of selecting the ideal location for your business."
+                },
+                "SETTING_UP_BUSINESS": {
+                    "TITLE": "Setting Up Your Business",
+                    "TEXT": "We help with the corporate establishment, handling compliance and legal matters."
+                },
+                "RELOCATING": {
+                    "TITLE": "Relocating Family and Staff",
+                    "TEXT": "We take care of your family and employees, finding them the ideal location to settle."
+                },
+                "FACILITATION": {
+                    "TITLE": "Facilitation of Newcomers",
+                    "TEXT": "We provide support and exceptional services to every newcomer of your business."
+                },
+                "SUPPORT": {
+                    "TITLE": "Ongoing Support",
+                    "TEXT": "We remain at your disposal should you need any further assistance and guidance."
+                }
+            }
+        }
+    },
+
+    "INVESTMENTS_PAGE": {
+        "TITLE": "Investment Opportunities",
+
+        "INVESTING_IN_ESTATE": {
+            "TITLE": "Investing in Real Estate",
+            "FIRST_TEXT": "Cyprus is becoming a dominant center of interest when it comes to Property Investments in the EU. The stability and successful development of properties around the island has contributed to the financial and business growth of Cyprus.",
+            "SECOND_TEXT":"Property investment means investing in the future and it comes with a huge range of opportunities including:",
+            "THIRD_TEXT": "Obtaining EU citizenship in 6 months Creating your future home The ability to earn passive income",
+            "FOURTH_TEXT": "With thousands of projects completed annually, there has never been a more perfect time to consider property investment in Cyprus. One of the most popular and attractive regions in Cyprus is the southern city of Limassol which has transformed into a business haven and a powerful tourist destination. More and more people from around the globe are choosing to invest in Cyprus’s properties, as it has become one of the most popular and thriving forms of investment. Our team is here to assist you in choosing the optimal investment plan as you consider your personal and financial needs."
+        },
+        "INVESTING_IN_YACHTS": {
+            "TITLE": "Investing in Yachts",
+            "FIRST_TEXT": "One of the perks of living on an island that is sunny all year round, is the access to the harbors and yacht clubs in different parts of the island. There are five harbors in the Republic of Cyprus, with the main ones being located in Larnaca and Limassol. PAM Consulting has partnered with one of the most prestige and renowned Yachting Companies of Cyprus, offering you the chance to experience the island life to the fullest.",
+            "SECOND_TEXT": "Our partner, Blue Point Yachting, was founded on the pillars of professionalism and quality of services. Operating in Cyprus and Lebanon, the company has years of experience in fulfilling the needs of every customer and acts as an official representative and dealer for dominant business brands. While the company’s headquarters are in Larnaca, there is also one office located at the Limassol Marina, enabling them to expand their services and reach a wider audience of customers.",
+            "THIRD_TEXT": "Blue Point Yachting and our team at PAM Consulting have come together to offer you:",
+            "FOURTH_TEXT": "A wide variety of yachts, mega yachts, cruisers, powerboats, and sailing boats are available for you to choose from Safety and security of latest-technology equipment and services 24-hour Service and Maintenance Technicians An efficient and responsible shore-based yacht accounting service Assurance of yacht certification compliance, which involves continually monitoring yacht ISMs and crew certifications. A chance to invest in the luxurious way of living in Cyprus",
+            "FIFTH_TEXT": "Whether you’re relocating to Cyprus with your family, your partner, or with the aim to expand your business plans, Yacht investing comes with many advantages and unforgettable experiences. Of course, as safety always comes first, you will also have the opportunity to learn how to operate a ship by taking sailing courses, enabling you to discover the ever-ending crystal-clear waters of Cyprus."
+        },
+        "STARING_BUSINESS": {
+            "TITLE": "Starting a Business",
+            "FIRST_TEXT": "Have you ever envisioned starting your own business? Being a business owner means being in charge of your own finances and decisions. One of the first steps to consider when building your business is the location of your company. This is the place where you will be investing your time, money, and motivation. For this reason, it is crucial to do your research regarding your target market, local tax implications, and much more.",
+            "SECOND_TEXT": "Cyprus may be a small island, but it offers a huge variety of business opportunities. With a free-market, service-based economy and high household incomes, the country has a stable and modern economy. Millions of international investors have seized the power of business establishment in Cyprus.",
+            "THIRD_TEXT": "These are some of the main reasons to start your own business in Cyprus:",
+            "FOURTH_TEXT": "One of Europe's lowest corporation tax rates Many investment opportunities The minimum of bureaucracy Bilingual qualified workforce High quality and low-cost residency",
+            "FIFTH_TEXT": "Some of the most thriving businesses on the island include banking and financial consultancy, shipping companies, and there is a high demand for both private and public insurance organizations. These are only a few options when it comes to finding the best business idea for you. Our team is here to provide assistance in discovering the business opportunities found on this beautiful island." 
+        },
+        "HOW_WE_CAN_HELP": {
+            "CARDS":{
+                "WE_LISTEN": {
+                    "TITLE": "We listen",
+                    "TEXT": "You come to us with your goals, and we make sure to understand your needs to the fullest."
+                },
+                "WE_PLAN": {
+                    "TITLE": "We plan",
+                    "TEXT": "We put all our efforts into creating the perfect investment plan for your family and business."
+                },
+                "WE_RECOMMEND": {
+                    "TITLE": "We recommend",
+                    "TEXT": "We give you the opportunity to consider a variety of options so you can have a better understanding of investing in Cyprus."
+                },
+                "WE_PROVIDE": {
+                    "TITLE": "We provide",
+                    "TEXT": "We offer you our services based on trustworthy agreements with renowned partners in Cyprus."
+                },
+                "WE_SUPPORT": {
+                    "TITLE": "We support",
+                    "TEXT": "Once you decide on your investment plan, we remain by your side to make sure everything meets your expectations."
+                }
+            }
+        }
+    },
+
+    "PRIVACY_POLICY": {
+        "TITLE": "Privacy Policy",
+        "DETAILS": "Eagle PAM Consulting Limited Privacy Policy and Cookie Disclosure Email: xxxxxxxxxxxxx www.eaglepamconsulting.com.cy Eagle PAM Consulting Limited. – Privacy Policy and Cookie Disclosure",
+        "THANK_YOU": "Thank you for showing interest in our service. In order for us to provide you with our service, we are required to collect and process certain personal data about you and your activity. By entrusting us with your personal data, we would like to assure you of our commitment to keeping such information private. We have taken measurable steps to protect the confidentiality, security and integrity of this data. We encourage you to review the following information carefully.",
+        "GROUNDS_FOR": "Grounds for data collection Processing of your personal information (meaning, any data which may potentially allow your identification with reasonable means; hereinafter “Personal Information”) is necessary for the performance of our contractual obligations towards you and providing you with our services, to protect our legitimate interests and for compliance with legal and financial regulatory obligations to which we are subject. When you use our services, you consent to the collection, storage, use, disclosure and other uses of your Personal Information as described in this Privacy Policy.",
+        "HOW_DO": "How do we receive information about you?",
+        "RECEIVE": "We receive your Personal Information from various sources: 1. When you voluntarily provide us with your personal details in order to create an inquiry (for example, your name and email address). 2. From third-party providers and services, such as credit reference agencies, fraud prevention agencies, identity verification vendors, banks, authentication service providers and public registers. 3. Or engaging with 3rd parties in order to facilitate the Clients’ enquiry, which is already under contractual obligation.",
+        "WHAT_TYPE": "What type of information do we collect?",
+        "TO_OPEN": "To open an inquiry, we require your name, email, country of residence, age and a brief description of your inquiry.",
+        "PERSONAL_INFO_TITLE": "Personal Information",
+        "PERSONAL_INFO_TEXT_ONE": "● Voluntary information–when you communicate with us (for example when you send us an email or use a “contact us” form on our site) we collect the personal information you provided us with.",
+        "PERSONAL_INFO_TEXT_TWO": "● Financial information – by its nature, your use of our services includes financial transactions, thus requiring us to obtain your financial details, which include, but are not limited to your payment details (such as bank account details and financial transactions performed through our services). This could be done before engaging with 3rd parties in order to facilitate a purchase or to prove that you have a sustainable amount of funds to support an extended visa, or for due diligence.",
+        "PERSONAL_INFO_TEXT_THREE": "● Technical information – we collect certain technical information that is automatically recorded when you use our services, such as your IP address, MAC address, and device approximate location.",
+        "NON_PERSONAL_INFO_TITLE": "Non-Personal Information",
+        "NON_PERSONAL_INFO": "We record and collect data from or about your device (for example your computer or your mobile device) when you access our services and visit our site. This includes but is not limited to: your login credentials. If we combine Personal Information with non-Personal Information about you, the combined information will be treated as Personal Information for as long as it remains combined.",
+        "TRACKING_TECHNOLOGIES_TITLE": "Tracking Technologies",
+        "TRACKING_TECHNOLOGIES": "When you visit or access our services we use (and authorize third parties to use) pixels, cookies, events and other technologies (&quot;Tracking Technologies&quot;). Those allow us to automatically collect information about you, your device and your online behaviour, in order to enhance your navigation in our services, improve our site’s performance, perform analytics and customize your experience on it.",
+        "IN_ADDITIONAL": "In addition, we may merge the information we have with information collected through said tracking technologies with information we may obtain from other sources and, as a result, such information may become Personal Information.",
+        "COLLECT_INFO": "How do we use the information we collect?",
+        "COLLECT_INFO_TEXT_ONE": "● Provision of service - we will use the Personal Information you provide us for the provision and improvement of our services to you.",
+        "COLLECT_INFO_TEXT_TWO": "● Marketing purposes - we will use your Personal Information (such as your email address or phone number). For example, by subscribing to our newsletter you will receive tips and announcements straight to your email account. We may also send you promotional material concerning our services or our partners&#39; services (which we believe may interest you), including but not limited to, building an automated profile based on your Personal Information, for marketing purposes. You may choose not to receive our promotional or marketing emails (all or any part thereof) by clicking on the “unsubscribe” link in the emails that you receive from us. Please note that even if you unsubscribe from our newsletter, we may continue to send you service-related updates and notifications or reply to your queries and feedback you provide us.",
+        "COLLECT_INFO_TEXT_THREE": "● Opt-out of receiving marketing materials - If you do not want us to use or share your personal information for marketing purposes, you may opt-out under this &quot;Opt-out&quot; section. Please note that even if you opt out, we may still use and share your personal information with third parties for non-marketing purposes (for example to fulfil your requests, communicate with you and respond to your inquiries, etc.). In such cases, the companies with whom we share your personal information are authorized to use your Personal Information only as necessary to provide these non-marketing services.",
+        "COLLECT_INFO_TEXT_FOUR": "● Analytics, surveys and research - we are always trying to improve our services and think of new and exciting features for our users. From time to time, we may conduct surveys or test features, and analyse the information we have to develop, evaluate and improve these features.",
+        "COLLECT_INFO_TEXT_FIVE": "● Protecting our interests - we use your Personal Information when we believe it’s necessary in order to take precautions against liabilities, investigate and defend ourselves against any third-party claims or allegations, investigate and protect ourselves from fraud, and protect the security or integrity of our services and protect the rights and property of Eagle PAM Consulting Limited, its users and/or partners.",
+        "COLLECT_INFO_TEXT_SIX": "● Enforcing of policies - we use your Personal Information in order to enforce our policies, including but not limited to our Terms and Conditions policy, or our Client Agreement.",
+        "COLLECT_INFO_TEXT_SEVEN": "● Compliance with legal and regulatory requirements - we also use your Personal Information to investigate violations and prevent money laundering and perform due diligence checks, and as required by law, regulation or other governmental authority, or to comply with a subpoena or similar legal process.",
+        "SHARE_INFO": "With whom do we share your personal information?",
+        "SHARE_INFO_TEXT_ONE": "● Internal concerned parties-we share your information with companies in our group, as well as our employees limited to those employees or partners who need to know the information in order to provide you with our services.",
+        "SHARE_INFO_TEXT_TWO": "● Business partners - we share your information with business partners, such as storage providers and analytics providers who help us provide you with our service.",
+        "SHARE_INFO_TEXT_THREE": "● Legal and regulatory entities - we may disclose any information in case we believe, in good faith, that such disclosure is necessary in order to enforce our Terms and Conditions or Client Agreement, take precautions against liabilities, investigate and defend ourselves against any third-party claims or allegations, protect the security or integrity of the site and our servers and protect the rights and property of Eagle PAM Consulting Limited, its users and/or partners.",
+        "SHARE_INFO_TEXT_FOUR": "● Merger and acquisitions – we may share your information if we enter into a business transaction such as a merger, acquisition, reorganization, bankruptcy, or sale of some or all our assets. Any party that acquires our assets as part of such a transaction may continue to use your information in accordance with the terms of this Privacy Policy.",
+        "COOKIE_DISCLOSURE": "Cookie Disclosure",
+        "COOKIE_DISCLOSURE_TEXT": "Cookies are small text files that are placed on your computer by websites that you visit. They are widely used to make websites work, or work more efficiently, as well as to provide information to the owners of the site. www.pamconsutling.com.cy use cookies to personalise content and ads, provide social media features and analyse our traffic, other information that you’ve provided to them or that they’ve collected from your use of their services. Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set, visit allaboutcookies.org.",
+        "MANAGE_COOKIES": "Find out how to manage cookies on popular browsers: • Google Chrome • Microsoft Edge • Mozilla Firefox • Microsoft Internet Explorer • Opera • Apple Safari",
+        "GOOGLE_ANALYTICS": "To opt out of being tracked by Google Analytics across all websites: Google Analytics Opt-out Browser Add-on. Visit the Off-Facebook Activity tool page to Manage Your Off-Facebook Activity or Clear History. That page can tell you which companies are supplying Facebook with information about your real-world activity.",
+        "PROTECT_INFO": "How we protect your information",
+        "PROTECT_INFO_TEXT": "We have implemented administrative, technical, and physical safeguards to help prevent unauthorized access, use, or disclosure of your personal information. Your information is stored on secure servers and isn’t publicly available. We limit access to your information only to those employees or partners that need to know the information to enable the carrying out of the agreement or inquiry between us. While we seek to protect your information to ensure that it is kept confidential, we cannot guarantee its security. You should be aware that there is always some risk involved in transmitting information over the internet. While we strive to protect your Personal Information, we cannot ensure or warrant the security and privacy of your Personal Information or other content you transmit using the service, and you do so at your own risk.",
+        "RETENTION": "Retention",
+        "RETENTION_TEXT": "We will retain your personal information for as long as necessary to provide our services, and as necessary to comply with our legal obligations, resolve disputes, and enforce our policies. Retention periods will be determined by taking into account the type of information that is collected and the purpose for which it is collected, bearing in mind the requirements applicable to the situation and the need to destroy outdated, unused information at the earliest reasonable time. Under applicable regulations, we will keep records containing client personal data, trading information, account opening documents, communications, and anything else as required by applicable laws and regulations.",
+        "HOW_TO_CONTACT_US": "HOW TO CONTACT US?",
+        "EMALING": "If you decide to terminate your account, you may do so by emailing us at : xxxxxxxxxemail.",
+        "UPDATE_POLICY": "Updates to this Policy",
+        "UPDATE_POLICY_TEXT": "This Privacy Policy is subject to changes from time to time, at our sole discretion. The most current version will always be posted on our website (as reflected in the &quot;Last Updated&quot; heading). You are advised to check for updates regularly. In the event of material changes, we will provide you with a notice. By continuing to access or use our services after any revisions become effective, you agree to be bound by the updated Privacy Policy.",
+        "CONTACTS": "Website: www.eaglepamconsulting.com.cy Email: xxxxxxxxxxxxxxxxxxxxxx"
+    },
+    "GENERAL_DISCLAIMER": {
+        "TITLE": "General Disclaimer",
+        "DOMAIN": "The content of this website with the domain name pamconsulting.com has been created and published strictly for general informational purposes. Therefore, the information provided on this website does not substitute or account for legal or tax advice. PAM Consulting is not a legal consultant or financial advisor and does not offer tax-related advice. Individuals looking to obtain further information about topics mentioned in the content of this website, should seek professionalassistance.",
+        "REPRESENTAIONS": "PAM Consulting makes no representations or warranties as to its accuracy or suitability, and explicitly disclaims any warranty pertaining to the content of this website. Thus, the company assumes no responsibility or liability for indirect, special, incidental, or consequential damages that may arise from the use or reliance on this information and content.",
+        "INFO_ON_WEBSITE": "Information on this website",
+        "INFO_ON_WEBSITE_TEXT": "The information on this website is provided by PAM Consulting and while we aim to keep the information up to date and correct, this information is not endorsed, approved, or certified by PAM Consulting, nor does it guarantee its accuracy, efficacy, completeness, or timeliness. From time to time, content and information on this website can be altered, modified, added or deleted without notice. Therefore, at any time, visitors who access the website may come upon information that may not be up to date.",
+        "VALIDITY": "PAM Consulting makes no guarantee of validity of the information provided and thus, any reliance upon such information is solely and strictly at your own risk. This website’s content and information provided is current and correct only as at the date it is first posted and may no longer be true or complete when viewed at a different period of time.",
+        "RESPONSOBILITY": "In the event that any information on this website relates to any third parties, then that third party holds full responsibility for such information. Below you will find PAM Consulting’s contact details if you wish to find out more information regarding the validity of the information and content provided on our website.",
+        "NO_PROFESSIONAL_ADVICE": "No Professional Advice",
+        "NO_PROFESSIONAL_ADVICE_TEXT_ONE": "This website contains information and content provided solely for informational purposes, meaning that individuals who visit the website should not take it as professional advice. As such, all information, content, materials, or data made available to you through this website, is not in any case intended to substitute or replace any professional advice.",
+        "NO_PROFESSIONAL_ADVICE_TEXT_TWO": "To the extent that any visitor of the website requires further information regarding any subject matters contained in the content provided, that visitor shall seek independent professional advice from a competent professional on the subject.",
+        "NO_FINANCIAL_ADVICE": "No Financial Advice",
+        "NO_FINANCIAL_ADVICE_TEXT": "PAM Consulting provides relocation services to businesses and individuals. For this reason, some content and information found on this website can relate to financial topics and matters. Visitors should be aware that any information related to financial matters on this website is not intended as, and shall not be understood or construed as, financial advice. PAM Consulting is not a financial advisor and thus, the information and content contained on this website represents general information regarding financial subjects. In the case that visitors of this website need further information on the matter, visitors shall consult with independent financial advisors.",
+        "NO_TAX_ADVICE": "No Tax Advice",
+        "NO_TAX_ADVICE_TEXT": "This website contains content and information touching upon tax-related topics. PAM Consulting does not provide any tax advice and any information that related to tax matters should not be relied upon as correct, precise, or accurate. The tax-related information and content found on this website is of general nature and has been prepared for informational purposes only. Therefore, this information shall not be regarded or relied upon as tax advice. Visitors of this website shall consult independent tax advisors and professionals for further information.",
+        "NO_LEGAL_ADVICE": "No Legal Advice",
+        "NO_LEGAL_ADVICE_TEXT": "PAM Consulting’s nature of services can relate to legal topics and matters and thus, this website may contain some content and information relating to legal topics. Visitors should be aware that this information is not intended to constitute legal advice, as any information regarding legal matters is not assured to be precise, correct, or true and is provided strictly for informational purposes only. Any visitor who requires more information about any legal topic found in the content of this website, shall seek independent professional legal advice.",
+        "EXTERNAL_LINKS": "External Links on this website",
+        "EXTERNAL_LINKS_TEXT": "Visitors of this website may come upon links to other external websites that are consistent with the purpose of this website. Such links may lead to websites whose content and information is not investigated, monitored, or checked for validity, accuracy, reliability, or completeness by PAM Consulting. Therefore, we do not warrant, guarantee, endorse, or assume responsibility by third- party websites linked through the website and we are not responsible for monitoring any content provided by those external websites.",
+        "COPYRIGHT": "Copyright",
+        "COPYRIGHT_TEXT": "All rights reserved. All material appearing on this website is protected by copyright and belongs to PAM Consulting. This material includes written content, pictures, and graphical elements that cannot copied, reproduced, distributed, or exploited in any way or in any form. Individuals may use the content contained on this website solely for their own individual non-commercial and informational purposes only. Therefore, any other use, such as for any commercial purposes, is prohibited without our written consent.",
+        "CONTACT_US": "Contact Us",
+        "CONTACT_US_TEXT": "PAM Consulting offers relocation services to businesses and individuals who are planning to move to Cyprus. PAM Consulting does not provide tax advisory services, legal services, financial advisory services or professional services as per the legislation of any client’s country of residency. Moreover, PAM Consulting is not registered as a professional advisor or regulated by the authorities of the country of residence of clients outside of Cyprus. Individuals who are seeking to request the provision of services by PAM Consulting and require legal, financial, or tax-related information or guidance, shall seek professional advice from a professional, lawyer, tax advisor, or financial consultant in their country of residence. In the event that you have any enquiries regarding any content or information provided on this website, please do not hesitate to contact PAM Consulting at (phone number), or by email at contact@pamrelocation.com, or by filling out a form on our website. In this way, our team will be able to review your request"
     }
 }
