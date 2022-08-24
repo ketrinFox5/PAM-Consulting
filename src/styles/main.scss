@@ -47,6 +47,28 @@ body {
     font-family: 'Avenir Next', sans-serif;
 }
 
+div, p, form, input, a, span, button {
+	box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    padding: 0;
+    margin: 0;
+}
+
+a, a:hover, a:active {
+	text-decoration: none;
+}
+
+a, a:hover {
+    color: $white;
+}
+
+p {
+  margin: 0;   
+  padding: 0;
+}
+
 ul, li {
 	display: block;
 	padding: 0;
