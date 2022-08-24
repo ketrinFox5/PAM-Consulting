@@ -1,0 +1,153 @@
+@import '../../../styles/main.scss';
+
+.header {
+    padding: 20px 110px 20px 130px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: linear-gradient(90.49deg, #53269D 0%, $purple-1 100.2%);
+
+    &__logo {
+        width: 120px;
+        height: 80px;
+        max-width: 120px;
+        max-height: 80px;
+        background: url(../../../assets/images/logo.svg) no-repeat 100% 0;
+    }
+
+    &__menu {
+        display: flex;
+        text-transform: uppercase;
+
+        & li {
+            padding-right: 14px;
+        }
+
+        & li:last-child {
+            padding-right: 0;
+        }
+
+        &-services {
+            padding: 19px 0;
+            width: 280px;
+            position: absolute;
+            top: 80px;
+            left: 35%;
+            display: none;
+            flex-direction: column;
+            text-align: center;
+            background: $white;
+
+            & li {
+                padding-bottom: 8px;
+
+                & a, a:active, a:focus {
+                    color: $grey;
+                }
+            }
+
+            & li:last-child {
+                padding-bottom: 0;
+            }
+
+        }
+
+        &-service {
+            position: relative;
+            margin-right: 10px;
+
+            & div {
+                position: absolute;
+                width: 10px;
+                height: 6px;
+                top: 7px;
+                right: 0;
+                background: url(../../../assets/images/icons/header_services_vector.svg) no-repeat 100% 0;
+            }
+        }
+    }
+
+    &__buttons {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    &__burger {
+        display: none;
+        width: 40px;
+        height: 30px;
+        margin-left: 60px;
+        background-image: url(../../../assets/images/icons/menu.svg);
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .header {
+        &__burger {
+            display: block;
+        }
+
+        &__menu{
+            padding: 30px 16px;
+            position: absolute;
+            top: 104px;
+            right: 110px;
+            display: none;
+            flex-direction: column;
+            text-align: center;
+            background: $white;
+
+            &-service {
+                & div {
+                    display: none;
+                }
+            }
+
+            & li {
+                padding-bottom: 9px;
+            }
+
+            & li:last-child {
+                padding-bottom: 0;
+            }
+
+            & a, a:active, a:focus {
+                color: $grey;
+                cursor: pointer;
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 760px) {
+    .header {
+        padding: 20px 94px;
+
+        &__logo {
+            width: 100px;
+            background-image: url(../../../assets/images/logo2.svg);
+        }
+
+        &__menu {
+            right: 94px;
+        }
+
+        &__buttons {
+            & button:first-child {
+                display: none;
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .header {
+        padding: 20px 50px;
+
+        &__menu {
+            right: 50px;
+        }
+    }
+}

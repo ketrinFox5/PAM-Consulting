@@ -12,20 +12,20 @@
 
     &-small {
         padding: 18px 34px;
-        width: 70px;
-        height: 24px;
+        width: 138px;
+        max-height: 60px;
     }
 
     &-middle {
         padding: 15px;
-        width: 150px;
-        height: 18px;
+        width: 180px;
+        max-height: 48px;
     }
 
     &-big {
         padding: 16px 22px;
         width: 200px;
-        height: 48px;
+        max-height: 48px;
     }
 
     &-checked {
