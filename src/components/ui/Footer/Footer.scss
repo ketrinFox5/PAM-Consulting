@@ -3,7 +3,7 @@
 .footer {
         padding: 37px 72px 43px 0;
         display: flex;
-        justify-content: end;
+        justify-content: flex-end;
         background: $purple-2;
         color: $white !important;
 
@@ -89,7 +89,7 @@
             }
         }
     }
-  }
+}
 
   @media screen and (max-width: 480px) {
     .footer {
@@ -112,4 +112,4 @@
             }
         }
     }
-  }
+}
